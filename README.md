@@ -26,13 +26,23 @@
 <h3 align="center"><b>💰 Donations</b></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bitcoin-bc1qnu5zx...-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Donation Address" />
-  <img src="https://img.shields.io/badge/Solana-GLsJDuqrF...-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana Donation Address" />
+  <b>Bitcoin (BTC):</b><br>
+  <code>bc1qnu5zx0ara8gyyx84ysgnzuumnvyuxvaqvxxg09</code>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ethereum-0x3cdF55...-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum Donation Address" />
-  <img src="https://img.shields.io/badge/Litecoin-LhUkCkiR2...-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" alt="Litecoin Donation Address" />
+  <b>Solana (SOL):</b><br>
+  <code>GLsJDuqrF9xDKcgcGMuSpBJrwPNgmNpLUXceZJeDeBNs</code>
+</p>
+
+<p align="center">
+  <b>Ethereum (ETH):</b><br>
+  <code>0x3cdF551780D40C7f2F2e04e24C73e97f1665C5e9</code>
+</p>
+
+<p align="center">
+  <b>Litecoin (LTC):</b><br>
+  <code>LhUkCkiR2PsbJnxv8ozVoFisJtAMNf8YZt</code>
 </p>
 
 <hr>
