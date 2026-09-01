@@ -14,25 +14,25 @@
 
 <p align="center">
   <a href="https://t.me/+S6XSbBTVQ3hjODJi">
-    <img src="https://img.shields.io/badge/Telegram_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:dxrk.1310@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<hr>
+
+<h3 align="center"><b>💰 Donations</b></h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/BTC-bc1qnu5zx0ara8gyyx84ysgnzuumnvyuxvaqvxxg09-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+  <img src="https://img.shields.io/badge/Bitcoin-bc1qnu5zx...-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Donation Address" />
+  <img src="https://img.shields.io/badge/Solana-GLsJDuqrF...-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana Donation Address" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOL-GLsJDuqrF9xDKcgcGMuSpBJrwPNgmNpLUXceZJeDeBNs-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana" />
+  <img src="https://img.shields.io/badge/Ethereum-0x3cdF55...-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum Donation Address" />
+  <img src="https://img.shields.io/badge/Litecoin-LhUkCkiR2...-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" alt="Litecoin Donation Address" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ETH-0x3cdF551780D40C7f2F2e04e24C73e97f1665C5e9-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LTC-LhUkCkiR2PsbJnxv8ozVoFisJtAMNf8YZt-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" alt="Litecoin" />
-</p>
+<hr>
