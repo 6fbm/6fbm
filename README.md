@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/+S6XSbBTVQ3hjODJi">
+  <a href="https://t.me/NSA983">
     <img src="https://img.shields.io/badge/Telegram_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:dxrk.1310@gmail.com">
