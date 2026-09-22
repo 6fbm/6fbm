@@ -2,7 +2,7 @@
 
 # Dxrk
 
-### Cybersecurity & Network Analysis | Python • C++
+<p><b>Cybersecurity & Network Analysis | Python • C++</b></p>
 
 <br>
 
