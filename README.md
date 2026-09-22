@@ -4,11 +4,6 @@
 
 <p><b>Cybersecurity & Network Analysis | Python • C++</b></p>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=0rc4l&show_icons=true&theme=vue-dark&hide_border=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rc4l&layout=compact&theme=vue-dark&hide_border=true" alt="Langs" />
-
 <br><br>
 
 ### Tech Stack
