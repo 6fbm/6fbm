@@ -1,40 +1,16 @@
 <div align="center">
+l3ufus
 
-# 0rc4l
+Cybersecurity & Network Analysis
 
-<p><b>Cybersecurity & Network Analysis | Python • C++</b></p>
+<a href="https://l3ufus.xyz"><img src="https://img.shields.io/badge/l3ufus.xyz-000000?style=for-the-badge&logoColor=white" alt="Website" /></a>
 
 <br><br>
 
-### Tech Stack
+<img src="https://skillicons.dev/icons?i=py,cpp,linux,bash,git&theme=dark" alt="Python, C++, Linux, Bash, Git" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
-</p>
+<br><br>
 
-<br>
+<a href="https://t.me/NSA983"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="https://x.com/_q6Wi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> <a href="https://discord.gg/gxePVecVrP"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://tryhackme.com/p/dfb"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
 
-### Contact
-
-<a href="https://t.me/NSA983">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<h3 align="center">Donations</h3>
-
-<br>
-
-| Asset | Address |
-| :--- | :--- |
-| **Bitcoin (BTC)** | `bc1qnu5zx0ara8gyyx84ysgnzuumnvyuxvaqvxxg09` |
-| **Solana (SOL)** | `GLsJDuqrF9xDKcgcGMuSpBJrwPNgmNpLUXceZJeDeBNs` |
-| **Ethereum (ETH)** | `0x3cdF551780D40C7f2F2e04e24C73e97f1665C5e9` |
-| **Litecoin (LTC)** | `LhUkCkiR2PsbJnxv8ozVoFisJtAMNf8YZt` |
+</div> <br> <h3 align="center">Donations</h3>
