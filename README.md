@@ -4,7 +4,6 @@
 
 **Cybersecurity & Network Analysis**
 
-<a href="https://l3ufus.xyz"><img src="https://img.shields.io/badge/l3ufus.xyz-000000?style=for-the-badge&logoColor=white" alt="Website" /></a>
 
 <br><br>
 
@@ -31,9 +30,6 @@
 
 ---
 
-<h3 align="center">Donations</h3>
-
-<p align="center"><sub>Scan a code or copy an address below. Only send each coin on its own network.</sub></p>
 
 <table align="center">
   <tr>
@@ -45,27 +41,4 @@
   </tr>
 </table>
 
-**Bitcoin** · `BTC`
-```text
-bc1qnu5zx0ara8gyyx84ysgnzuumnvyuxvaqvxxg09
-```
 
-**Solana** · `SOL`
-```text
-GLsJDuqrF9xDKcgcGMuSpBJrwPNgmNpLUXceZJeDeBNs
-```
-
-**Ethereum** · `ETH` · ERC-20
-```text
-0x3cdF551780D40C7f2F2e04e24C73e97f1665C5e9
-```
-
-**Litecoin** · `LTC`
-```text
-LhUkCkiR2PsbJnxv8ozVoFisJtAMNf8YZt
-```
-
-**Monero** · `XMR`
-```text
-44XbFZCfbHSiiTjEfTA7NE5abtmx2UmivVeuWAochK4tKNNcyiFem8rXBBinRkuCK1Mvjeq7XvfNQVS96j22cnqhJSCVHmo
-```
